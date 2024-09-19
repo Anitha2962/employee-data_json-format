@@ -1,0 +1,26 @@
+D:\EQ SOFT\C#\employee data json format\bin\Debug\employee data json format.exe.config
+D:\EQ SOFT\C#\employee data json format\bin\Debug\employee data json format.exe
+D:\EQ SOFT\C#\employee data json format\bin\Debug\employee data json format.pdb
+D:\EQ SOFT\C#\employee data json format\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Buffers.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Memory.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Numerics.Vectors.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Text.Encodings.Web.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Text.Json.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.ValueTuple.dll
+D:\EQ SOFT\C#\employee data json format\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Buffers.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Memory.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Numerics.Vectors.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Text.Encodings.Web.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Text.Json.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\EQ SOFT\C#\employee data json format\bin\Debug\System.ValueTuple.xml
+D:\EQ SOFT\C#\employee data json format\obj\Debug\employee data json format.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\employee data json format\obj\Debug\employee data json format.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\employee data json format\obj\Debug\employee data json format.csproj.CopyComplete
+D:\EQ SOFT\C#\employee data json format\obj\Debug\employee data json format.exe
+D:\EQ SOFT\C#\employee data json format\obj\Debug\employee data json format.pdb
